@@ -11,5 +11,5 @@ This is a very basic website with 3 recipe pages.
 
 1. HTML Boilerpalte
 2. Lists
-3. Page-link % redirect page
+3. Page-link & redirect page
 4. Git commands
